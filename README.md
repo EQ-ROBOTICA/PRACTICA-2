@@ -47,6 +47,9 @@ dejarlo en un lugar especifico.
 
 # Conclusiones 
 - Edgar Zahid Hernandez Garcia:
+  Esta practica me dio una idea mas clara de como es que se implementa la robotica para realizar acciones especificas, personalmente creo que es demasiado util y
+  eficiente su implementacion, esta vez la tarea a realizar fue demasiado simple por lo que para realizar tareas industriales creo que la complejidad del codigo
+  aumentaria significativamente.
 
 
 - Gael Mateo Rangel Chavez: 
