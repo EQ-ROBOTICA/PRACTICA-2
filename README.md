@@ -52,7 +52,8 @@ dejarlo en un lugar especifico.
   aumentaria significativamente.
 
 
-- Gael Mateo Rangel Chavez: 
+- Gael Mateo Rangel Chavez:
+  Durante esta práctica se observó de una manera más clara como es que se crean las rutinas que siguen los robots para las disitintas tareas que de requieren, la tarea realizada en la práctica fue bastante sencilla pero es un paso más cerca a comprender mejor esta tecnología.
 
   
 - Alejandro Saldaña Garcia:
