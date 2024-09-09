@@ -57,6 +57,7 @@ dejarlo en un lugar especifico.
 
   
 - Alejandro Saldaña Garcia:
+  Dentro de la práctica se pudo visualizar un mejor manejo del robot respecto al espacio de la cabina así como memorizar las coordenadas para un funcionamiento adecuado ya que si no se tiene bien establecido se puede llegar a ocasionar una colisión, tomando como referencia que en algunas situaciones se necesita más pasos para evitar el fallo. Fuimos capaces de reutilizar coordenadas usadas para evitar el mayor uso de espacio en la memoria dentro del robot.
 
 # Referencias bibliograficas
 [1] Aula, «Cómo funciona la Robótica Industrial y cómo se programa», aula21 | Formación para la Industria, 17 de mayo de 2023. https://www.cursosaula21.com/como-funciona-la-robotica-industrial/
