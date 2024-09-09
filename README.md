@@ -25,6 +25,7 @@ dejarlo en un lugar especifico.
   
   Para implementar la lógica del movimiento según las coordenadas definidas, se accedió a la ventana "Main" del software y se escribió el siguiente código:
 
+```
   Function main
   Home
   Go Primero
@@ -35,6 +36,7 @@ dejarlo en un lugar especifico.
   On 2
   Home
   Fend
+  ```
 
   Básicamente, se estableció el punto de inicio "Home" y, mediante el comando Go, se indicó al robot que se desplazara al primer punto y, a continuación, al segundo. 
   Al llegar al segundo punto, el brazo robótico ya se encontraba sobre el objeto, por lo que con el comando Off y el valor 2 (predefinido para la garra) se cerró la 
